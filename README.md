@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Nishi Sus this side. 
-I have interest in in the field of machine learning and content writing!
+I have interest in the field of machine learning and content writing. Focussed towards learning and enhancing my skills!
 <!--
 **nishisus/nishisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
